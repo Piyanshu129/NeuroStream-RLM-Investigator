@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+*.local
+
+# Application Data (Dummy data is re-generated via script)
+data/*.db
+data/*.txt
+data/faiss_index/
+backend/data/*.db
+backend/data/*.txt
+backend/data/faiss_index/
