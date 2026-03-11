@@ -2,8 +2,6 @@
 
 A professional **Recursive Language Model (RLM)** dashboard designed for deep data investigation. This application uses a "Context-as-Variable" paradigm, where a reasoning LLM writes Python code to traverse and cross-reference multiple data sources dynamically.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600?text=RLM+Data+Investigator+UI)
-
 ## 🚀 Key Features
 
 - **Recursive Reasoning**: Handles complex multi-step queries by spawning sub-agents for summarization and deep dives.
