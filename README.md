@@ -30,7 +30,7 @@ A professional **Recursive Language Model (RLM)** dashboard designed for deep da
 ### 2. Installation
 ```powershell
 # Clone the repository
-git clone (https://github.com/Piyanshu129/NeuroStream-RLM-Investigator.git)
+git clone https://github.com/Piyanshu129/NeuroStream-RLM-Investigator.git
 cd RLM-Data-Investigator
 
 # Install Backend Dependencies
